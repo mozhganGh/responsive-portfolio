@@ -49,6 +49,9 @@
             box-shadow: var(--box-shadow);
             color: white;
         }
+             .primary-link:hover {
+  color: white;
+}
         .secondary-link {
             border-radius: 4px;
             padding: 20px 15px;
